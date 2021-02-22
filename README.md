@@ -77,7 +77,7 @@ http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8,
 http://117.169.120.140:8080/live/cctv-13/.m3u8,
 ,
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
-http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8,
+https://cctvcnch5c.v.wscdns.com/live/cdrmcctv13_1_1350/playlist.m3u8,
 ,
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
 http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8,
