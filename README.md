@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 ,CCTV中国中央电视台-1 综合
-http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608807420
 
 #EXTINF:-1 ,CCTV中国中央电视台-12 社会与法制
-http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609017191
 
 #EXTINF:-1 ,CCTV中国中央电视台-13 新闻
 http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
@@ -35,6 +35,9 @@ http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
 
 #EXTINF:-1 ,东方卫视
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+
+#EXTINF:-1 ,快本台
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625574493
 
 #EXTINF:-1 ,北京卫视HD
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
