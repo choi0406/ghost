@@ -1,10 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 ,凤凰卫视中文台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+
+#EXTINF:-1 ,凤凰卫视资讯台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+
+#EXTINF:-1 ,凤凰卫视电影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+
+#EXTINF:-1 ,星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+
+#EXTINF:-1 ,Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+
+#EXTINF:-1 ,Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+
+#EXTINF:-1 ,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+
 #EXTINF:-1 ,CCTV中国中央电视台-1 综合
-http://yeyuaihao.gz01.bdysite.com/qw.php?id=608807420
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
 
 #EXTINF:-1 ,CCTV中国中央电视台-12 社会与法制
-http://yeyuaihao.gz01.bdysite.com/qw.php?id=609017191
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
 
 #EXTINF:-1 ,CCTV中国中央电视台-13 新闻
 http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
